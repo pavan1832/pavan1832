@@ -22,8 +22,18 @@
 ## 🔥 Build | Learn | Ship
 
 <p align="center">
-  <img alt="Neon Banner" src="https://readme-typing-svg.herokuapp.com?size=24&color=00ff99&center=true&vCenter=true&width=900&lines=Building+practical+software+%7C+Solving+real-world+problems+%7C+Always+learning">
+  <img
+    alt="Neon Banner"
+    src="https://readme-typing-svg.herokuapp.com?
+    size=24
+    &color=00ff99
+    &center=true
+    &vCenter=true
+    &width=900
+    &repeat=false
+    &lines=Building+practical+software+%7C+Solving+real-world+problems+%7C+Always+learning">
 </p>
+
 
 
 ---
