@@ -83,6 +83,8 @@
  
 
   <a href="https://www.linkedin.com/in/lokpavan-p-931a60292/"><img src="https://img.shields.io/badge/LinkedIn-lokpavan%20p-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
+<a href="mailto:lokpavan54@gmail.com">
+  <img src="https://img.shields.io/badge/Email-lokpavan54%40gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-  <a href="lokpavan54@gmail.com"><img src="https://img.shields.io/badge/Email-https://mail.google.com/mail/?view=cm&fs=1&to=lokpavan54%40gmail.com.com-3b82f6?style=for-the-badge&logo=gmail" alt="email"></a>
 </p>
