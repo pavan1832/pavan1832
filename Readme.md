@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Lokpavan+P;Software+Engineer+%E2%9A%80%EF%B8%8F+Let's+%7C+Code+%7C+Together" alt="typing">
 </p>
 
-<p align="center">https://github.com/pavan1832/pavan1832/blob/main/Readme.md
+<p align="center">
   <!-- Neon style small subtitle -->
   <em style="color:#9BE7FF">Exploring software engineering through real projects and continuous learning.</em>
 </p>
