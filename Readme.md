@@ -22,7 +22,7 @@
 ## 🔥 Build | Learn | Ship
 
 <p align="center">
-  <img alt="Neon Banner" src="https://readme-typing-svg.herokuapp.com?size=24&color=00ff99&center=true&vCenter=true&width=900&repeat=false&lines=End-to-end+software+development+%7C+Strong+fundamentals+%7C+Real+projects">
+  <img alt="Neon Banner" src="https://readme-typing-svg.herokuapp.com?size=24&color=00ff99&center=true&vCenter=true&width=900&repeat=false&lines=Turning+ideas+into+working+software+%7C+Hands-on+projects+%7C+Clean+code">
 </p>
 
 
