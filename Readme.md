@@ -55,18 +55,20 @@
 - **Multiple Disease Prediction System** — `Prediction System`(https://multiple-disease-prediction-system-uad72qucwr72xdymgdigdt.streamlit.app/) — Predicts multiple diseases using ML models with an interactive UI.
 - **Online Exam Pro** — `Prediction System`(https://onlineexampro.onrender.com/) — Web-based examination system with assessments and result tracking.
 
+## 📊 GitHub Stats & Top Languages
 
-## 📈 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan1832&show_icons=true&theme=react&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan1832&theme=react&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavan1832&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan1832&layout=compact&theme=react&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan1832&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan1832&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ## ✨ Live / Dynamic Widgets
 - Contribution Heatmap:  
