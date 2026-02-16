@@ -19,9 +19,11 @@
 
 ---
 
-## 🔥 Eye-candy: Neon banner
+## 🔥 Build | Learn | Ship
+
 <p align="center">
-  <img alt="Neon Banner" src="https://readme-typing-svg.herokuapp.com?size=24&color=00ff99&center=true&vCenter=true&width=900&lines=Neon+UX+%E2%9A%A1+3D+elements+%7C+Glowy+particles+%7C+GSAP+animations">
+  <img alt="Neon Banner" src="https://readme-typing-svg.herokuapp.com?size=24&color=00ff99&center=true&vCenter=true&width=900&lines=End-to-end+software+development+%7C+Strong+fundamentals+%7C+Real+projects
+">
 </p>
 
 ---
