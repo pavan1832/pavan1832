@@ -1,8 +1,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Lokpavan+P;Welcome+to+My+Account+%E2%9A%A1%EF%B8%8F+Let's+Code+Together"
-    alt="typing"
-  />
+    alt="typing" />
 </p>
 
 
