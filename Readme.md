@@ -57,7 +57,6 @@
 
 ## 📊 GitHub Stats & Top Languages
 
-## 📊 GitHub Stats & Top Languages
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan1832&theme=react&hide_border=true" alt="streak" />
 </p>
