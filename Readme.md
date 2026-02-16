@@ -74,8 +74,9 @@
 </p>
 
 
-- WakaTime (coding activity) 
- ![WakaTime](https://wakatime.com/badge/user/ad2fa46d-65d8-4619-95d3-56ef30a57ed8.svg)
+- **WakaTime (coding activity)**  
+  ![WakaTime](https://wakatime.com/badge/user/ad2fa46d-65d8-4619-95d3-56ef30a57ed8.svg)
+
 
 
 ---
