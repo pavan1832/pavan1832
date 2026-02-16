@@ -49,7 +49,7 @@
 ## 🚀 Projects 
 
 
-- **SignFlow – Agreement Management System** — [Agreement Management System](https://agreement-manager--lokpavan18.replit.app/) — Digital agreement lifecycle management with secure workflows and dashboards.
+- **SignFlow – Agreement Management System** — `SignFlow` [Agreement Management System](https://agreement-manager--lokpavan18.replit.app/) — Digital agreement lifecycle management with secure workflows and dashboards.
 - **AI-Driven Flight Plan Analysis Automation** — `Flight Automation`(https://flight-plan-ai--lokpavanp.replit.app/) — Automates flight plan analysis using AI to extract insights and reduce manual effort.
 - **AgroPredict - Crop Recommendation System** — `AgroPredict` (https://agropredict-baxe.onrender.com/) — ML-based crop prediction using soil and environmental parameters.
 - **Multiple Disease Prediction System** — `Prediction System`(https://multiple-disease-prediction-system-uad72qucwr72xdymgdigdt.streamlit.app/) — Predicts multiple diseases using ML models with an interactive UI.
