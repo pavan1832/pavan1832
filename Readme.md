@@ -30,12 +30,12 @@
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=C" alt="C"/>
+   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=python" alt="Python"/>
+   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" alt="Java"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TS"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs" alt="three.js"/>
 </p>
 
 ---
