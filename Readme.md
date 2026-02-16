@@ -64,9 +64,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan1832&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan1832&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 
 ## ✨ Live / Dynamic Widgets
