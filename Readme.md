@@ -1,7 +1,10 @@
 <p align="center">
-  <!-- Animated typing title -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Lokpavan+P;Weclome+to+My+Account+%E2%9A%80%EF%B8%8F+Let's+%7Code+Together+ alt="typing">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Lokpavan+P;Welcome+to+My+Account+%E2%9A%A1%EF%B8%8F+Let's+Code+Together"
+    alt="typing"
+  />
 </p>
+
 
 <p align="center">
   <!-- Neon style small subtitle -->
