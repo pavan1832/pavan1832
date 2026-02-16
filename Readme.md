@@ -59,9 +59,6 @@
 
 ## 📊 GitHub Stats & Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan1832&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan1832&theme=tokyonight&hide_border=true" />
