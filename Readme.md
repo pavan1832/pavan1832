@@ -63,9 +63,9 @@
 
 
 
-## ✨ Live / Dynamic Widgets
+## ✨ Contribution
 - Contribution Heatmap:  
- ## ✨ Live / Dynamic Widgets
+ ## ✨ Streak
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pavan1832/pavan1832/output/github-contribution-grid-snake-dark.svg" />
